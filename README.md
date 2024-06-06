@@ -3,3 +3,4 @@
 Meu nome é Carla Araujo
 - Estou estudando na Alura
 - Posto projetos em desenvolvimento
+- Sou professora da educação básica
